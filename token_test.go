@@ -1,4 +1,4 @@
-package actoken
+package token
 
 import (
 	"testing"
